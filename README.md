@@ -16,3 +16,5 @@ Aspiring Front-End Developer from Lima, Peru 🇵🇪
 
 ## 📊 GitHub Stats
 ![Yael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yael123R&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yael123R&layout=compact&theme=dark)
